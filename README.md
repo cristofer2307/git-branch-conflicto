@@ -5,5 +5,3 @@
 
 ## autores de paz
 - [camper](https://github.com/cristofer2307)
-
-![A](/home/camper/Descargas/tiji.jpg)
